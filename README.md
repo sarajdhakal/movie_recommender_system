@@ -101,3 +101,14 @@ The system uses content-based filtering:
 ## Evaluation Metrics
 - Cosine Similarity Score
 
+## Screenshots
+ Example Output
+ Recommend by titile 
+
+![Recommend by titile ](<Recommend by titile.png>)
+
+Recommend by description or genre
+![Recommend by description and genre](<Recommend by description and genre.png>)
+
+
+
